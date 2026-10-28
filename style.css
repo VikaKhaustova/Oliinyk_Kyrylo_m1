@@ -1,0 +1,30 @@
+body{
+  font-family: sans-serif;
+  background-color: #424242;
+  text-align: center;
+}
+header{
+    background-color: #636363;
+     padding: 10px;
+}
+nav{
+    
+}
+main{
+    
+}
+
+a{
+    color: white;
+}
+
+footer{
+     background-color: #636363;
+     padding: 10px;
+}
+
+h1{
+    color:#2e2928;
+    background-color: white;
+    border-radius: 15px;
+}
